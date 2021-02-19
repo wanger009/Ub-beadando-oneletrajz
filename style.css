@@ -1,0 +1,70 @@
+body{
+    background-color: blanchedalmond;
+    width: 1650px;
+    height: 800px;
+
+
+}
+
+.fieldset1{
+    width: 200px;
+    height: 750px;
+    float: right;
+    color: grey;
+    text-align: center;
+}
+
+.Ha{
+    text-decoration: underline rgb(5, 128, 133);
+}
+
+.Haa{
+    text-decoration: underline rgb(5, 128, 133);
+    
+}
+
+a{
+    color: rgb(5, 128, 133) ;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: rgb(5, 128, 133);
+}
+
+a:hover{
+    color: grey;;
+}
+.Haaa{
+    text-decoration: underline rgb(5, 128, 133);
+}
+.fieldset2{
+    width: 1360px;
+    height: 750px;
+    float: left;
+    color: grey;
+    text-align: justify;
+}
+.Haaaa{
+   color:  rgb(5, 128, 133);
+}
+.Netflix{
+    width: 250px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+
+.bicikli{
+    width: 250px;
+    float: right;
+    margin-top: 270px;
+    margin-right: -250px;
+}
+
+.Gamer{
+    width: 250px;
+    float: right;
+    margin-top: 415px;
+    margin-right: -250px;
+}
